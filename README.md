@@ -199,18 +199,6 @@ I am interested in opportunities involving:
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=triumfhadri&show_icons=true&hide_border=true" alt="Triumf Hadri's GitHub statistics" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triumfhadri&layout=compact&hide_border=true" alt="Triumf Hadri's most used languages" />
-</p>
-
----
-
 ## Contact
 
 <p align="center">
