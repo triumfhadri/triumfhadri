@@ -1,439 +1,224 @@
-<h1 align="center">Hi, I'm Triumf Hadri 👋</h1>
-
-
+<h1 align="center">Hi, I'm Triumf Hadri</h1>
 
 <h3 align="center">
-
-Network Engineering Student | Aspiring Full-Stack Developer | IT Support
-
+Network Engineering Student | Web Development | IT Support
 </h3>
 
-
+<p align="center">
+  Klagenfurt, Austria
+</p>
 
 <p align="center">
-
-Based in Klagenfurt, Austria 🇦🇹
-
+  <a href="mailto:triumfhadri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-triumfhadri%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-2ea44f?style=flat-square" alt="Open to opportunities" />
 </p>
 
+---
 
+## About Me
+
+I am a Network Engineering student at FH Kärnten with a strong interest in web development, databases, networking, and technical support.
+
+I enjoy building practical applications, solving technical problems, and learning how modern software systems work. I am currently looking for remote junior roles, internships, freelance projects, and other opportunities where I can contribute while gaining professional experience.
+
+* Studying Network Engineering at FH Kärnten
+* Currently completing my second semester
+* Expected graduation: 2028
+* Based in Klagenfurt, Austria
+* Interested in web development, networking, QA, and IT support
+* Open to remote junior roles, internships, and freelance opportunities
+* Languages: Albanian — Native | English — Fluent | German — A1
 
 ---
 
+## Technical Skills
 
-
-## 👨‍💻 About Me
-
-
-
-I am a Network Engineering student at FH Kärnten with a strong interest in web development, databases, networking, automation, and technical support.
-
-
-
-I enjoy building practical applications, solving technical problems, and learning new technologies. I am currently looking for remote junior opportunities, internships, freelance projects, and roles where I can contribute while gaining professional experience.
-
-
-
-* 🎓 Studying Network Engineering at FH Kärnten
-
-* 📚 Currently completing my second semester
-
-* 📅 Expected graduation: 2028
-
-* 🌍 Based in Klagenfurt, Austria
-
-* 💻 Interested in web development, IT support, QA, and networking
-
-* 🌱 Currently improving my React, Linux, and cloud knowledge
-
-* 🤝 Open to remote work, internships, and junior opportunities
-
-* 🗣️ Albanian: Native | English: Fluent | German: A1
-
-
-
----
-
-
-
-## 🛠️ Technical Skills
-
-
-
-### Frontend Development
-
-
+### Frontend
 
 <p>
-
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap" alt="Frontend technologies" />
-
 </p>
-
-
 
 * HTML5
-
 * CSS3
-
 * JavaScript
-
 * TypeScript
-
 * React
-
 * Next.js
-
 * Bootstrap
-
 * Responsive web design
 
-
-
-### Backend Development
-
-
+### Backend
 
 <p>
-
   <img src="https://skillicons.dev/icons?i=nodejs,cs" alt="Backend technologies" />
-
 </p>
 
-
-
 * Node.js
-
 * C#
-
-* REST APIs
-
+* REST API fundamentals
 * Server-side development
-
-* Discord.js bot development
-
-* Windows Forms applications
-
-
+* Discord.js
+* Windows Forms
 
 ### Databases
 
-
-
 <p>
-
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" alt="Database technologies" />
-
 </p>
-
-
 
 * PostgreSQL
-
 * MongoDB
-
 * MySQL
-
 * Firebase
-
 * SQL queries
-
 * Database design fundamentals
 
-
-
-### Development Tools
-
-
+### Tools and Platforms
 
 <p>
-
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,wordpress,figma,linux" alt="Development tools" />
-
 </p>
 
-
-
 * Git and GitHub
-
 * Visual Studio Code
-
 * Visual Studio
-
 * WordPress
-
 * Figma
-
 * Linux fundamentals
-
 * Microsoft Office
-
-
 
 ### Networking and IT Support
 
-
-
-* Network configuration fundamentals
-
-* TCP/IP concepts
-
-* Basic network troubleshooting
-
+* TCP/IP fundamentals
+* Basic network configuration
+* Network troubleshooting
 * Hardware and software support
-
 * Basic Linux administration
-
 * Technical customer support
-
 * Problem-solving and technical research
 
+---
 
+## Currently Learning
+
+* Full-stack development with Next.js and Node.js
+* React and TypeScript
+* Linux and system administration
+* Network monitoring
+* Git and GitHub workflows
+* Cloud and deployment fundamentals
+* Software testing and QA fundamentals
 
 ---
 
+## Portfolio Roadmap
 
-
-## 🚀 What I Am Currently Learning
-
-
-
-* Building full-stack applications with Next.js and Node.js
-
-* Improving my React and TypeScript knowledge
-
-* Learning more about Linux and system administration
-
-* Developing my knowledge of network monitoring
-
-* Improving my Git and GitHub workflow
-
-* Building portfolio projects based on real-world problems
-
-
-
----
-
-
-
-## 📌 Portfolio Projects
-
-
+I am currently building projects that demonstrate my development, networking, and technical support skills.
 
 ### IT Help Desk Ticket System
 
+A web application for creating, assigning, managing, and tracking technical support tickets.
 
-
-A web application where users can create, manage, assign, and track technical support tickets.
-
-
-
-**Technologies:** Next.js, TypeScript, PostgreSQL, Node.js
-
-
+**Planned stack:** Next.js, TypeScript, PostgreSQL, Node.js
 
 **Planned features:**
 
-
-
 * User authentication
-
 * Ticket creation and management
-
-* Ticket priorities and statuses
-
+* Priority and status tracking
 * Admin dashboard
-
 * Search and filtering
-
 * Comments and support responses
 
-
-
 ---
-
-
 
 ### Network Monitoring Dashboard
 
+A dashboard for viewing connected devices, network activity, alerts, and system information.
 
-
-A dashboard for displaying connected devices, network activity, alerts, and system information.
-
-
-
-**Technologies:** Node.js, Next.js, PostgreSQL, networking tools
-
-
+**Planned stack:** Next.js, Node.js, PostgreSQL, networking tools
 
 **Planned features:**
 
-
-
-* Connected device detection
-
+* Connected-device detection
 * Device information
-
 * Network activity monitoring
-
-* Discord or email alerts
-
+* Email or Discord alerts
 * Dashboard statistics
-
 * Device history
 
-
-
 ---
-
-
 
 ### Responsive Business Website
 
+A modern website for a small business with a responsive design and clear user experience.
 
-
-A modern and responsive website for a small business.
-
-
-
-**Technologies:** Next.js or WordPress, HTML, CSS, JavaScript
-
-
+**Planned stack:** Next.js or WordPress, HTML, CSS, JavaScript
 
 **Planned features:**
 
-
-
-* Responsive design
-
+* Responsive layout
 * Services section
-
 * Contact form
-
 * Mobile navigation
-
-* SEO fundamentals
-
-* Fast loading performance
-
-
+* Basic SEO
+* Performance optimization
 
 ---
 
+## Career Interests
 
+I am interested in opportunities involving:
 
-## 🎯 Career Interests
-
-
-
-I am currently interested in opportunities involving:
-
-
-
-* Junior full-stack development
-
+* Junior web development
 * Frontend development
-
-* Backend development
-
+* Full-stack development
 * WordPress development
-
 * QA and software testing
-
 * IT support and help desk
-
 * Technical customer support
-
 * Networking
-
 * Discord bot development
-
 * Entry-level remote technology roles
 
-
-
 ---
 
+## Strengths
 
-
-## 🤝 What I Bring
-
-
-
-* Strong motivation to learn
-
+* Strong willingness to learn
 * Reliable communication
-
 * Fluent English
-
-* Customer-focused attitude
-
+* Customer-focused mindset
 * Ability to research unfamiliar technical problems
-
-* Flexible working availability
-
+* Flexible availability
 * Interest in both software and networking
-
-* Willingness to contribute and improve
-
-
+* Motivation to contribute and improve
 
 ---
 
-
-
-## 📊 GitHub Statistics
-
-
+## GitHub Statistics
 
 <p align="center">
-
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=triumfhadri&show_icons=true&hide_border=true" alt="Triumf Hadri's GitHub statistics" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triumfhadri&layout=compact&hide_border=true" alt="Triumf Hadri's most used languages" />
-
 </p>
-
-
-
----
-
-
-
-## 📫 Contact Me
-
-
-
-<p>
-
-  <a href="mailto:triumfhadri@gmail.com">
-
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" />
-
-  </a>
-
-
-
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-
-  </a>
-
-</p>
-
-
-
-I am open to remote junior positions, internships, freelance projects, and opportunities where I can learn while contributing to a professional team.
-
-
-
----
-
-
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triumfhadri&layout=compact&hide_border=true" alt="Triumf Hadri's most used languages" />
+</p>
 
-  Thank you for visiting my GitHub profile.
+---
 
+## Contact
+
+<p align="center">
+  <a href="mailto:triumfhadri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+I am open to remote junior positions, internships, freelance projects, and opportunities where I can learn while contributing to a professional team.
 </p>
