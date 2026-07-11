@@ -26,7 +26,7 @@ I enjoy building practical applications, solving technical problems, and learnin
 * Studying Network Engineering at FH Kärnten
 * Currently completing my second semester
 * Expected graduation: 2028
-* Based in Klagenfurt, Austria
+* Based in Austria
 * Interested in web development, networking, QA, and IT support
 * Open to remote junior roles, internships, and freelance opportunities
 * Languages: Albanian — Native | English — Fluent | German — A1
